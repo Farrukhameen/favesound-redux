@@ -1,8 +1,9 @@
-import List, { NextButton, Chevron, SpecificList } from './index';
+import React from 'react';
+import List, { Chevron, SpecificList } from './index';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { shallow } from 'enzyme';
 
 describe('List', () => {
-
   let props;
 
   beforeEach(() => {
@@ -31,11 +32,9 @@ describe('List', () => {
     const element = shallow(<List { ...props } />);
     expect(element.find('.more-visible')).to.have.length(1);
   });
-
 });
 
 describe('Chevron', () => {
-
   let props;
 
   beforeEach(() => {
@@ -55,11 +54,9 @@ describe('Chevron', () => {
     const element = shallow(<Chevron { ...props } />);
     expect(element.find('i')).to.have.length(0);
   });
-
 });
 
 describe('SpecificList', () => {
-
   let props;
 
   beforeEach(() => {
@@ -81,5 +78,4 @@ describe('SpecificList', () => {
     const element = shallow(<SpecificList { ...props } />);
     expect(element.find('SpecificItemTrack')).to.have.length(5);
   });
-
 });

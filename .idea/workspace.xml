@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76997d48-995e-456b-8d7b-94cb5e17ba74" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/browse/index.js" afterPath="$PROJECT_DIR$/src/actions/browse/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/comments/index.js" afterPath="$PROJECT_DIR$/src/actions/comments/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/entities/index.js" afterPath="$PROJECT_DIR$/src/actions/entities/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/entities/spec.js" afterPath="$PROJECT_DIR$/src/actions/entities/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/filter/index.js" afterPath="$PROJECT_DIR$/src/actions/filter/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/following/index.js" afterPath="$PROJECT_DIR$/src/actions/following/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/index.js" afterPath="$PROJECT_DIR$/src/actions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/paginate/index.js" afterPath="$PROJECT_DIR$/src/actions/paginate/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/paginate/spec.js" afterPath="$PROJECT_DIR$/src/actions/paginate/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/player/index.js" afterPath="$PROJECT_DIR$/src/actions/player/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/player/spec.js" afterPath="$PROJECT_DIR$/src/actions/player/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/request/index.js" afterPath="$PROJECT_DIR$/src/actions/request/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/request/spec.js" afterPath="$PROJECT_DIR$/src/actions/request/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/session/index.js" afterPath="$PROJECT_DIR$/src/actions/session/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/sort/index.js" afterPath="$PROJECT_DIR$/src/actions/sort/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/toggle/index.js" afterPath="$PROJECT_DIR$/src/actions/toggle/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/toggle/spec.js" afterPath="$PROJECT_DIR$/src/actions/toggle/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/track/index.js" afterPath="$PROJECT_DIR$/src/actions/track/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/track/spec.js" afterPath="$PROJECT_DIR$/src/actions/track/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/user/index.js" afterPath="$PROJECT_DIR$/src/actions/user/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/user/spec.js" afterPath="$PROJECT_DIR$/src/actions/user/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Activities/index.js" afterPath="$PROJECT_DIR$/src/components/Activities/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App/index.js" afterPath="$PROJECT_DIR$/src/components/App/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Artwork/index.js" afterPath="$PROJECT_DIR$/src/components/Artwork/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Artwork/spec.js" afterPath="$PROJECT_DIR$/src/components/Artwork/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ArtworkAction/index.js" afterPath="$PROJECT_DIR$/src/components/ArtworkAction/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Browse/index.js" afterPath="$PROJECT_DIR$/src/components/Browse/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ButtonActive/index.js" afterPath="$PROJECT_DIR$/src/components/ButtonActive/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ButtonGhost/index.js" afterPath="$PROJECT_DIR$/src/components/ButtonGhost/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ButtonInline/index.js" afterPath="$PROJECT_DIR$/src/components/ButtonInline/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ButtonMore/index.js" afterPath="$PROJECT_DIR$/src/components/ButtonMore/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ButtonMore/spec.js" afterPath="$PROJECT_DIR$/src/components/ButtonMore/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Callback/index.js" afterPath="$PROJECT_DIR$/src/components/Callback/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CommentExtension/index.js" afterPath="$PROJECT_DIR$/src/components/CommentExtension/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Dashboard/index.js" afterPath="$PROJECT_DIR$/src/components/Dashboard/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FavoritesList/index.js" afterPath="$PROJECT_DIR$/src/components/FavoritesList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FavoritesList/spec.js" afterPath="$PROJECT_DIR$/src/components/FavoritesList/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FilterDuration/index.js" afterPath="$PROJECT_DIR$/src/components/FilterDuration/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FilterName/index.js" afterPath="$PROJECT_DIR$/src/components/FilterName/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FollowersList/index.js" afterPath="$PROJECT_DIR$/src/components/FollowersList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FollowersList/spec.js" afterPath="$PROJECT_DIR$/src/components/FollowersList/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FollowingsList/index.js" afterPath="$PROJECT_DIR$/src/components/FollowingsList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FollowingsList/spec.js" afterPath="$PROJECT_DIR$/src/components/FollowingsList/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Header/index.js" afterPath="$PROJECT_DIR$/src/components/Header/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/HoverActions/index.js" afterPath="$PROJECT_DIR$/src/components/HoverActions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/HoverActions/spec.js" afterPath="$PROJECT_DIR$/src/components/HoverActions/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/InfoList/index.js" afterPath="$PROJECT_DIR$/src/components/InfoList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/InfoList/spec.js" afterPath="$PROJECT_DIR$/src/components/InfoList/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/InputMenu/index.js" afterPath="$PROJECT_DIR$/src/components/InputMenu/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/List/index.js" afterPath="$PROJECT_DIR$/src/components/List/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/List/spec.js" afterPath="$PROJECT_DIR$/src/components/List/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/LoadingSpinner/index.js" afterPath="$PROJECT_DIR$/src/components/LoadingSpinner/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/LoadingSpinner/spec.js" afterPath="$PROJECT_DIR$/src/components/LoadingSpinner/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Permalink/index.js" afterPath="$PROJECT_DIR$/src/components/Permalink/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Permalink/spec.js" afterPath="$PROJECT_DIR$/src/components/Permalink/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Player/index.js" afterPath="$PROJECT_DIR$/src/components/Player/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Playlist/index.js" afterPath="$PROJECT_DIR$/src/components/Playlist/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Sort/index.js" afterPath="$PROJECT_DIR$/src/components/Sort/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/StreamActivities/index.js" afterPath="$PROJECT_DIR$/src/components/StreamActivities/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/StreamInteractions/index.js" afterPath="$PROJECT_DIR$/src/components/StreamInteractions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Track/index.js" afterPath="$PROJECT_DIR$/src/components/Track/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Track/playlist.js" afterPath="$PROJECT_DIR$/src/components/Track/playlist.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Track/preview.js" afterPath="$PROJECT_DIR$/src/components/Track/preview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Track/stream.js" afterPath="$PROJECT_DIR$/src/components/Track/stream.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TrackActions/index.js" afterPath="$PROJECT_DIR$/src/components/TrackActions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TrackExtension/index.js" afterPath="$PROJECT_DIR$/src/components/TrackExtension/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/User/index.js" afterPath="$PROJECT_DIR$/src/components/User/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/User/preview.js" afterPath="$PROJECT_DIR$/src/components/User/preview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Volume/index.js" afterPath="$PROJECT_DIR$/src/components/Volume/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/WaveformSc/index.js" afterPath="$PROJECT_DIR$/src/components/WaveformSc/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/withFetchOnScroll/index.js" afterPath="$PROJECT_DIR$/src/components/withFetchOnScroll/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/withLoadingSpinner/index.js" afterPath="$PROJECT_DIR$/src/components/withLoadingSpinner/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/actionTypes.js" afterPath="$PROJECT_DIR$/src/constants/actionTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/artistFilter.js" afterPath="$PROJECT_DIR$/src/constants/artistFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/authentication.js" afterPath="$PROJECT_DIR$/src/constants/authentication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/durationFilter.js" afterPath="$PROJECT_DIR$/src/constants/durationFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/filterTypes.js" afterPath="$PROJECT_DIR$/src/constants/filterTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/genre.js" afterPath="$PROJECT_DIR$/src/constants/genre.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/nameFilter.js" afterPath="$PROJECT_DIR$/src/constants/nameFilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/paginateLinkTypes.js" afterPath="$PROJECT_DIR$/src/constants/paginateLinkTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/pathnames.js" afterPath="$PROJECT_DIR$/src/constants/pathnames.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/requestTypes.js" afterPath="$PROJECT_DIR$/src/constants/requestTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/schemas.js" afterPath="$PROJECT_DIR$/src/constants/schemas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/sort.js" afterPath="$PROJECT_DIR$/src/constants/sort.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/sortTypes.js" afterPath="$PROJECT_DIR$/src/constants/sortTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/toggleTypes.js" afterPath="$PROJECT_DIR$/src/constants/toggleTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/trackAttributes.js" afterPath="$PROJECT_DIR$/src/constants/trackAttributes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/constants/trackTypes.js" afterPath="$PROJECT_DIR$/src/constants/trackTypes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/browse/index.js" afterPath="$PROJECT_DIR$/src/reducers/browse/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/browse/spec.js" afterPath="$PROJECT_DIR$/src/reducers/browse/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/comment/index.js" afterPath="$PROJECT_DIR$/src/reducers/comment/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/comment/spec.js" afterPath="$PROJECT_DIR$/src/reducers/comment/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/entities/index.js" afterPath="$PROJECT_DIR$/src/reducers/entities/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/entities/spec.js" afterPath="$PROJECT_DIR$/src/reducers/entities/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/filter/index.js" afterPath="$PROJECT_DIR$/src/reducers/filter/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/filter/spec.js" afterPath="$PROJECT_DIR$/src/reducers/filter/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/index.js" afterPath="$PROJECT_DIR$/src/reducers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/paginate/index.js" afterPath="$PROJECT_DIR$/src/reducers/paginate/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/paginate/spec.js" afterPath="$PROJECT_DIR$/src/reducers/paginate/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/player/index.js" afterPath="$PROJECT_DIR$/src/reducers/player/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/player/spec.js" afterPath="$PROJECT_DIR$/src/reducers/player/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/request/index.js" afterPath="$PROJECT_DIR$/src/reducers/request/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/request/spec.js" afterPath="$PROJECT_DIR$/src/reducers/request/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/session/index.js" afterPath="$PROJECT_DIR$/src/reducers/session/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/session/spec.js" afterPath="$PROJECT_DIR$/src/reducers/session/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/sort/index.js" afterPath="$PROJECT_DIR$/src/reducers/sort/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/sort/spec.js" afterPath="$PROJECT_DIR$/src/reducers/sort/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/toggle/index.js" afterPath="$PROJECT_DIR$/src/reducers/toggle/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/toggle/spec.js" afterPath="$PROJECT_DIR$/src/reducers/toggle/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/user/index.js" afterPath="$PROJECT_DIR$/src/reducers/user/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/user/spec.js" afterPath="$PROJECT_DIR$/src/reducers/user/spec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/schemas/comment.js" afterPath="$PROJECT_DIR$/src/schemas/comment.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/schemas/track.js" afterPath="$PROJECT_DIR$/src/schemas/track.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/schemas/user.js" afterPath="$PROJECT_DIR$/src/schemas/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/api.js" afterPath="$PROJECT_DIR$/src/services/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/filter.js" afterPath="$PROJECT_DIR$/src/services/filter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/map.js" afterPath="$PROJECT_DIR$/src/services/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/player.js" afterPath="$PROJECT_DIR$/src/services/player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/pluralize.js" afterPath="$PROJECT_DIR$/src/services/pluralize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/string.js" afterPath="$PROJECT_DIR$/src/services/string.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/services/track.js" afterPath="$PROJECT_DIR$/src/services/track.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stores/configureStore.js" afterPath="$PROJECT_DIR$/src/stores/configureStore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stores/mixpanel.js" afterPath="$PROJECT_DIR$/src/stores/mixpanel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/setup.js" afterPath="$PROJECT_DIR$/test/setup.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#21#49#0" expanded="true" />
+                <element signature="e#120#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/actions/toggle/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eslint</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/constants/authentication.js" />
+        <option value="$PROJECT_DIR$/src/constants/durationFilter.js" />
+        <option value="$PROJECT_DIR$/src/constants/filterTypes.js" />
+        <option value="$PROJECT_DIR$/src/constants/genre.js" />
+        <option value="$PROJECT_DIR$/src/constants/nameFilter.js" />
+        <option value="$PROJECT_DIR$/src/constants/paginateLinkTypes.js" />
+        <option value="$PROJECT_DIR$/src/constants/pathnames.js" />
+        <option value="$PROJECT_DIR$/src/constants/requestTypes.js" />
+        <option value="$PROJECT_DIR$/src/constants/schemas.js" />
+        <option value="$PROJECT_DIR$/src/constants/sort.js" />
+        <option value="$PROJECT_DIR$/src/constants/sortTypes.js" />
+        <option value="$PROJECT_DIR$/src/constants/toggleTypes.js" />
+        <option value="$PROJECT_DIR$/src/constants/trackAttributes.js" />
+        <option value="$PROJECT_DIR$/src/constants/trackTypes.js" />
+        <option value="$PROJECT_DIR$/src/reducers/browse/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/browse/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/comment/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/comment/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/entities/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/entities/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/filter/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/filter/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/paginate/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/paginate/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/player/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/player/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/request/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/request/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/session/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/session/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/sort/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/sort/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/toggle/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/toggle/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/user/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/user/spec.js" />
+        <option value="$PROJECT_DIR$/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/schemas/comment.js" />
+        <option value="$PROJECT_DIR$/src/schemas/track.js" />
+        <option value="$PROJECT_DIR$/src/schemas/user.js" />
+        <option value="$PROJECT_DIR$/src/services/api.js" />
+        <option value="$PROJECT_DIR$/src/services/filter.js" />
+        <option value="$PROJECT_DIR$/src/services/map.js" />
+        <option value="$PROJECT_DIR$/src/services/player.js" />
+        <option value="$PROJECT_DIR$/src/services/pluralize.js" />
+        <option value="$PROJECT_DIR$/src/services/string.js" />
+        <option value="$PROJECT_DIR$/src/services/track.js" />
+        <option value="$PROJECT_DIR$/src/stores/configureStore.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/test/setup.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="favesound-redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="favesound-redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="favesound-redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="favesound-redux" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="favesound-redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="favesound-redux" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="E:\wamp64\www\favesound-redux\node_modules\eslint" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76997d48-995e-456b-8d7b-94cb5e17ba74" name="Default" comment="" />
+      <created>1533013051858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533013051858</updated>
+      <workItem from="1533013059837" duration="19000" />
+      <workItem from="1533013846838" duration="1706000" />
+      <workItem from="1533015586788" duration="9346000" />
+      <workItem from="1533099410927" duration="1355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12426000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9440789" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/constants/schemas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/sortTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/toggleTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/trackAttributes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/trackTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/browse/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/browse/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/comment/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/comment/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/entities/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/entities/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/filter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/filter/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/paginate/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/paginate/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/player/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/player/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/request/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/request/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/session/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/session/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/sort/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/sort/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/toggle/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/toggle/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/user/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/user/spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schemas/comment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schemas/track.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schemas/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/pluralize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/string.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/services/track.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stores/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stores/mixpanel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/components/actions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/authentication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/pathnames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constants/sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="90" lean-forward="false" selection-start-line="8" selection-start-column="90" selection-end-line="8" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Browse/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="83" column="0" lean-forward="true" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#21#49#0" expanded="true" />
+            <element signature="e#120#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/toggle/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

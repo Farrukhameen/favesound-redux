@@ -2,9 +2,7 @@ import * as actionTypes from '../../constants/actionTypes';
 import entities from './index';
 
 describe('entities reducer', () => {
-
   describe('SYNC_ENTITIES', () => {
-
     it('updates an entity in a list of entities', () => {
       const users = {
         1: { name: 'x' },
@@ -34,11 +32,9 @@ describe('entities reducer', () => {
 
       expect(entities(previousState, action)).to.eql(expectedState);
     });
-
   });
 
   describe('MERGE_ENTITIES', () => {
-
     it('initiates entities, when there are no entities yet', () => {
       const users = {
         1: { name: 'x' },
@@ -89,7 +85,7 @@ describe('entities reducer', () => {
       const previousState = {
         users: previousUsers,
         tracks: {}
-      }
+      };
 
       expect(entities(previousState, action)).to.eql(expectedState);
     });
@@ -136,7 +132,5 @@ describe('entities reducer', () => {
 
       expect(entities(previousState, action)).to.eql(expectedState);
     });
-
   });
-
 });

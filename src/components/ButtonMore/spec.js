@@ -2,7 +2,6 @@ import ButtonMore from './index';
 import { mount } from 'enzyme';
 
 describe('ButtonMore', () => {
-
   let props;
 
   beforeEach(() => {
@@ -37,5 +36,4 @@ describe('ButtonMore', () => {
     expect(element.find('LoadingSpinner')).to.have.length(1);
     expect(element.find('ButtonGhost')).to.have.length(0);
   });
-
 });

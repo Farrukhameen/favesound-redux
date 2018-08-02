@@ -1,15 +1,15 @@
 import { normalize, Schema, arrayOf } from 'normalizr';
 
-let track = new Schema('tracks');
-let user = new Schema('users');
-let comment = new Schema('comments');
+const track = new Schema('tracks');
+const user = new Schema('users');
+const comment = new Schema('comments');
 
 track.define({
   user
 });
 
 comment.define({
-    user
+  user
 });
 
 export const trackSchema = track;

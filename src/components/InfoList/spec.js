@@ -1,8 +1,9 @@
+import React from 'react';
 import InfoList, { InfoItem } from './index';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { shallow } from 'enzyme';
 
 describe('InfoList', () => {
-
   const props = {
     information: [
       { count: 1, className: 'foo' },
@@ -19,11 +20,9 @@ describe('InfoList', () => {
     const element = shallow(<InfoList { ...props } />);
     expect(element.find('InfoItem')).to.have.length(2);
   });
-
 });
 
 describe('InfoItem', () => {
-
   const props = {
     infoItem: { count: 1, className: 'foo' }
   };
@@ -38,5 +37,4 @@ describe('InfoItem', () => {
     expect(element.find('i').prop('className')).to.equal(props.infoItem.className);
     expect(element.find('.info-list-item').text()).to.contain(props.infoItem.count);
   });
-
 });

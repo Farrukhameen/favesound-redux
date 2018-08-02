@@ -2,7 +2,6 @@ import Artwork from './index';
 import { shallow } from 'enzyme';
 
 describe('Artwork', () => {
-
   const props = {
     image: '/foo',
     title: 'Foo',
@@ -25,5 +24,4 @@ describe('Artwork', () => {
     const element = shallow(<Artwork { ...props } />);
     expect(element.find('img').prop('src')).to.equal(props.optionalImage);
   });
-
 });

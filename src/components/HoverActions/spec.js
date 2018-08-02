@@ -1,8 +1,9 @@
+import React from 'react';
 import Actions, { Action } from './index';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { shallow } from 'enzyme';
 
 describe('Actions', () => {
-
   const props = {
     configuration: [
       { fn: () => {}, className: 'foo' },
@@ -32,11 +33,9 @@ describe('Actions', () => {
     const element = shallow(<Actions { ...props } />);
     expect(element.find('.action').prop('className')).to.equal('action');
   });
-
 });
 
 describe('Action', () => {
-
   const props = {
     actionItem: { fn: () => {}, className: 'foo' }
   };
@@ -50,5 +49,4 @@ describe('Action', () => {
     const element = shallow(<Action { ...props } />);
     expect(element.find('i').prop('className')).to.equal(props.actionItem.className);
   });
-
 });

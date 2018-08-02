@@ -2,7 +2,6 @@ import * as actions from './index';
 import * as actionTypes from '../../constants/actionTypes';
 
 describe('mergeEntities()', () => {
-
   it('creates an action to merge entities', () => {
     const entities = [{ name: 'x', name: 'y' }];
     const expectedAction = {
@@ -12,11 +11,9 @@ describe('mergeEntities()', () => {
 
     expect(actions.mergeEntities(entities)).to.eql(expectedAction);
   });
-
 });
 
 describe('syncEntities()', () => {
-
   it('creates an action to sync an entity', () => {
     const key = 'users';
     const entity = { name: 'x' };
@@ -28,5 +25,4 @@ describe('syncEntities()', () => {
 
     expect(actions.syncEntities(entity, key)).to.eql(expectedAction);
   });
-
 });

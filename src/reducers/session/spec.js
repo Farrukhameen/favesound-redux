@@ -2,9 +2,7 @@ import * as actionTypes from '../../constants/actionTypes';
 import session from './index';
 
 describe('session reducer', () => {
-
   describe('RESET_SESSION', () => {
-
     it('resets a session', () => {
       const action = {
         type: actionTypes.RESET_SESSION
@@ -24,11 +22,9 @@ describe('session reducer', () => {
 
       expect(session(previousState, action)).to.eql(expectedState);
     });
-
   });
 
   describe('SET_SESSION', () => {
-
     it('sets a session', () => {
       const action = {
         type: actionTypes.SET_SESSION,
@@ -47,11 +43,9 @@ describe('session reducer', () => {
 
       expect(session(previousState, action)).to.eql(expectedState);
     });
-
   });
 
   describe('SET_USER', () => {
-
     it('sets an user', () => {
       const action = {
         type: actionTypes.SET_USER,
@@ -70,7 +64,5 @@ describe('session reducer', () => {
 
       expect(session(previousState, action)).to.eql(expectedState);
     });
-
   });
-
 });

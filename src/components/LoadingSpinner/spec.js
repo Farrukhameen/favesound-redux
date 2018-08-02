@@ -1,8 +1,9 @@
+import React from 'react';
 import LoadingSpinner from './index';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { shallow } from 'enzyme';
 
 describe('InfoList', () => {
-
   const props = {
     isLoading: true
   };
@@ -17,5 +18,4 @@ describe('InfoList', () => {
     const element = shallow(<LoadingSpinner { ...props } />);
     expect(element.find('i')).to.have.length(0);
   });
-
 });

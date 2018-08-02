@@ -1,8 +1,9 @@
+import React from 'react';
 import { FollowersList } from './index';
+// eslint-disable-next-line import/no-extraneous-dependencies
 import { shallow } from 'enzyme';
 
 describe('FollowersList', () => {
-
   const props = {
     currentUser: { name: 'x' },
     userEntities: { 1: { name: 'x' }, 2: { name: 'y' } },
@@ -18,5 +19,4 @@ describe('FollowersList', () => {
     const element = shallow(<FollowersList { ...props } />);
     expect(element.find('List')).to.have.length(1);
   });
-
 });
